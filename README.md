@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrentinSoftware / 🇧🇷: Olá eu sou @TrentinSoftware
-- 👀 I currently work on RPA development using UiPath / 🇧🇷: Atualmente trabalho no desenvolvimento de RPA usando UiPath,
-- 🌱 I'm trying to learn how to use Python with Prefect / 🇧🇷: Estou tentando aprender a usar Python com Prefect
+- 👀 I currently work on RPA development using Python and UiPath / 🇧🇷: Atualmente trabalho no desenvolvimento de RPA usando Python e UiPath,
+- 🌱 I'm learning Data Enginering and Machine Learning / 🇧🇷: Estou aprendendendo Engenharia de Dados e Machine Learning
 - 😄 Pronouns: He / 🇧🇷: Ele
 - ⚡ Fun fact: I'm a Nerd (as obvious as it may seem) / 🇧🇷: Eu sou Nerd (Por mais óbvio que isso seja)
